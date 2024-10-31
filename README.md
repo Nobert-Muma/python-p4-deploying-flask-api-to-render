@@ -1,4 +1,4 @@
-# Deploying a Flask API to Render
+# Deploying a Flask API to Render.
 
 ## Learning Goals
 
